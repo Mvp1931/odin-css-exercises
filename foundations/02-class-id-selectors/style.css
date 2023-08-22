@@ -1,19 +1,21 @@
 .odd {
-      background : rgb(255, 182, 193);
+      background : lightpink;
       font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
-.two {
+#two {
       color : rgb(0, 0, 255);
       font-size: 32px;
+      font-family: Arial, Helvetica, sans-serif;
 }
 
 .three {
       font-size: 24px;
+      font-family: 'Red Hat Display', Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.four {
-      background-color: rgb(144, 238, 144);
+#four {
+      background-color: lightgreen;
       font-weight: bold;
       font-size: 24px;
 }

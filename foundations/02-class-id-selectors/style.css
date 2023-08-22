@@ -1,10 +1,10 @@
 .odd {
-      background : #ffb6c1;
+      background : rgb(255, 182, 193);
       font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 .two {
-      color : hsl(240, 100%, 50%);
+      color : rgb(0, 0, 255);
       font-size: 32px;
 }
 

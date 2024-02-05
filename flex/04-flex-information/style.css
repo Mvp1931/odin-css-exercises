@@ -27,7 +27,7 @@ img {
 
 /* Solution */
 
-.title {
+body {
     text-align: center;
 }
 
@@ -41,5 +41,4 @@ img {
     width: 200px;
     text-wrap: wrap;
     margin: 52px;
-    text-align: center;
 }
